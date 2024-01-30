@@ -1,0 +1,35 @@
+*{
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+    }
+    body{
+        background-color: #0d2854;
+        color: white;
+    }
+    #header{
+        width: 100%;
+        height: 90vh;
+        background-image: url(./bg.jpg) ;
+        background-size: cover;
+        background-position: center;
+        
+    
+    }
+    
+      
+    
+    nav ul li{
+        display: inline-block;
+        margin: 10px 2%;
+        align-items: LEFT;
+    }
+    nav ul li a{
+        text-decoration: none;
+        color: white;
+        font-size: 16px;
+    }
+    .headertext{
+        margin-top: 50px;
+        margin:  10%;
+    }
+    
